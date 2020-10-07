@@ -4,7 +4,7 @@ I do many things, including:
 
 - Designing revolutionary MMO games with bare-metal Go (previously Node.js) for performance like dotzz.io (to be released soon) 🙂
 - Creating awesome JavaScript libraries with the latest technologies like [boreDOM](https://github.com/HereIsKevin/boreDOM) 😎
-- Designing simple yet intuitive apps in Python with PySide2 like [Weather](https://github.com/HereIsKevin/weather_app) 🌤
+- Designing simple yet intuitive apps in Python with PySide2 like Weather (to be released soon) 🌤
 - Developing interesting (but still boring) games in Python like [GeoBounce from Boredom Games](https://github.com/boredomgames/GeoBounce) 😂
 - Designing minimal and intuitive CSS frameworks like [minimal.css](https://github.com/HereIsKevin/minimal.css) 🤔
 - Creating powerful but lightweight prompts for bash like [neat](https://github.com/HereIsKevin/neat) 🤪
