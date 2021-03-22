@@ -2,6 +2,27 @@
 
 I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**.
 
+Here are the programming languages I know, ordered by experience:
+
+  - Python
+  - Web (HTML, Sass/CSS, TypeScript/JavaScript)
+  - Shell
+  - C#
+  - Rust
+  - Go
+  - Tcl/Tk
+  - C
+  - Objective-C
+  - C++
+
+Here are the areas I have experience in, ordered by experience:
+
+  - Full-stack web development
+  - Desktop application development
+  - Machine learning
+  - Graphics development
+  - Mobile application development
+
 ![Kevin Feng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HereIsKevin)
 
 I have many other projects that I am experimenting with, tinkering with, and playing with. If you find any of my projects inspiring, revolutionary, or interesting, please give them a ⭐️ so I know they are appreciated.
