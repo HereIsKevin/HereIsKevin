@@ -1,6 +1,6 @@
 # Hi, I'm Kevin
 
-I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**.
+I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**. My side project is Fluid (soon to be released), a simple, blazing-fast 3KB UI library **without virtual DOM**.
 
 Here are the programming languages I know, ordered by experience:
 
