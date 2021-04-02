@@ -27,4 +27,4 @@ Here are the areas I have experience in, ordered by experience:
 
 I have many other projects that I am experimenting with, tinkering with, and playing with. If you find any of my projects inspiring, revolutionary, or interesting, please give them a ⭐️ so I know they are appreciated.
 
-If you want to contact me, please open an issue over [here](https://github.com/HereIsKevin/HereIsKevin).
+If you want to contact me, please open an issue over [here](https://github.com/HereIsKevin/HereIsKevin/discussions).
