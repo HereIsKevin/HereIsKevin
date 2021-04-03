@@ -2,7 +2,7 @@
 
 I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**. My side project is Fluid (soon to be released), a simple, blazing-fast 1.5KB UI library **without virtual DOM**.
 
-Here are the programming languages I know, ordered by experience:
+### Here some programming languages I know
 
   - Python
   - Web (HTML, Sass/CSS, TypeScript/JavaScript)
@@ -15,7 +15,7 @@ Here are the programming languages I know, ordered by experience:
   - Objective-C
   - C++
 
-Here are the areas I have experience in, ordered by experience:
+### Here are some areas I have experience in
 
   - Full-stack web development
   - Desktop application development
