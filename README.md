@@ -7,9 +7,9 @@ I'm a aspiring developer, student, and future CEO (hopefully). Currently, my mai
   - Python
   - Web (HTML, Sass/CSS, TypeScript/JavaScript)
   - Shell
+  - Go
   - C#
   - Rust
-  - Go
   - Tcl/Tk
   - C
   - Objective-C
