@@ -1,6 +1,6 @@
 # Hi, I'm Kevin
 
-I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is Fluid (soon to be released), a simple, blazing-fast **1.5 KB** UI library **without virtual DOM**. My side project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**.
+I'm a aspiring developer, student, and future CEO (hopefully). Currently, my main project is [Fluid](https://github.com/HereIsKevin/fluid), a simple, blazing-fast **1.5 KB** UI library **without virtual DOM**. My side project is [Convoluta](https://convoluta.github.io), a revolutionary AI-powered solution to **stop misinformation before it even spreads**.
 
 I'm a Sublime Text fanatic (and whiz), Python zealot, TypeScript maniac, and Rust devotee. I dislike using Objective-C due to the unwieldiness of Apple's APIs, but I find myself using it more often than I would like.
 
